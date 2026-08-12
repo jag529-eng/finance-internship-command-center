@@ -39,16 +39,7 @@ jobs:
           PY
           while IFS=$'\t' read -r company title location priority career detected deadline apply; do
             [ -z "$company" ] && continue
-            gh issue create --title "ALERT: $company — $title" --body "**$company — $title — $location**
-
-Server-lite Priority: **$priority** | Career Value seed: **$career**
-
-Detected: $detected
-Deadline: ${deadline:-Not stated}
-
-[APPLY NOW]($apply)
-
-> The browser recalculates the full profile-aware score locally. This automated alert score intentionally does not expose your resume/application data." --label "internship-alert" || true
+          gh issue create --title "ALERT: $company — $title" --body "**$company — $title — $location**\n\nServer-lite Priority: **$priority** | Career Value seed: **$career**\n\nDetected: $detected\nDeadline: ${deadline:-Not stated}\n\n[APPLY NOW]($apply)\n\n> The browser recalculates the full profile-aware score locally. This automated alert score intentionally does not expose your resume/application data." --label "internship-alert" || true
           done < /tmp/alerts.tsv
       - name: Commit monitor state and feed
         shell: bash
