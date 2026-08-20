@@ -1,5 +1,5 @@
 {
-  "last_cycle": "2026-08-20T10:45:03.227885Z",
+  "last_cycle": "2026-08-20T11:39:11.914559Z",
   "total_employers": 31,
   "actively_monitored": 2,
   "healthy": 2,
@@ -15,17 +15,17 @@
       "last_success": "2026-08-20T10:45:03.227885Z",
       "ok": true,
       "error": "",
-      "jobs_detected": 92,
-      "source_url": "https://boards-api.greenhouse.io/v1/boards/point72/jobs?content=true"
+      "skipped_not_due": true
     },
     {
       "company": "HCVT",
       "ats": "Lever",
-      "last_check": "2026-08-20T07:54:43.768022Z",
-      "last_success": "2026-08-20T07:54:43.768022Z",
+      "last_check": "2026-08-20T11:39:11.914559Z",
+      "last_success": "2026-08-20T11:39:11.914559Z",
       "ok": true,
       "error": "",
-      "skipped_not_due": true
+      "jobs_detected": 39,
+      "source_url": "https://api.lever.co/v0/postings/hcvt?mode=json"
     }
   ]
 }
