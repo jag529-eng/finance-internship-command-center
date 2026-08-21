@@ -1,5 +1,5 @@
 {
-  "last_cycle": "2026-08-21T21:36:38.439602Z",
+  "last_cycle": "2026-08-21T22:38:50.739367Z",
   "total_employers": 31,
   "actively_monitored": 2,
   "healthy": 2,
@@ -11,11 +11,12 @@
     {
       "company": "Point72",
       "ats": "Greenhouse",
-      "last_check": "2026-08-21T20:38:16.390986Z",
-      "last_success": "2026-08-21T20:38:16.390986Z",
+      "last_check": "2026-08-21T22:38:50.739367Z",
+      "last_success": "2026-08-21T22:38:50.739367Z",
       "ok": true,
       "error": "",
-      "skipped_not_due": true
+      "jobs_detected": 93,
+      "source_url": "https://boards-api.greenhouse.io/v1/boards/point72/jobs?content=true"
     },
     {
       "company": "HCVT",
