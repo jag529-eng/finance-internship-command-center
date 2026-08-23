@@ -1,5 +1,5 @@
 {
-  "last_cycle": "2026-08-23T01:57:55.751030Z",
+  "last_cycle": "2026-08-23T03:13:20.046398Z",
   "total_employers": 31,
   "actively_monitored": 2,
   "healthy": 2,
@@ -11,8 +11,8 @@
     {
       "company": "Point72",
       "ats": "Greenhouse",
-      "last_check": "2026-08-23T01:57:55.751030Z",
-      "last_success": "2026-08-23T01:57:55.751030Z",
+      "last_check": "2026-08-23T03:13:20.046398Z",
+      "last_success": "2026-08-23T03:13:20.046398Z",
       "ok": true,
       "error": "",
       "jobs_detected": 93,
@@ -25,8 +25,7 @@
       "last_success": "2026-08-23T01:57:55.751030Z",
       "ok": true,
       "error": "",
-      "jobs_detected": 39,
-      "source_url": "https://api.lever.co/v0/postings/hcvt?mode=json"
+      "skipped_not_due": true
     }
   ]
 }
