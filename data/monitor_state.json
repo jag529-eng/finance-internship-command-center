@@ -1,18 +1,18 @@
 {
   "point72": {
-    "last_check": "2026-09-24T15:02:13.147065Z",
-    "last_success": "2026-09-24T15:02:13.147065Z",
+    "last_check": "2026-09-24T19:06:41.231273Z",
+    "last_success": "2026-09-24T19:06:41.231273Z",
     "ok": true,
     "error": "",
-    "jobs_detected": 91,
+    "jobs_detected": 92,
     "source_url": "https://boards-api.greenhouse.io/v1/boards/point72/jobs?content=true"
   },
   "hcvt": {
-    "last_check": "2026-09-24T15:02:13.147065Z",
-    "last_success": "2026-09-24T15:02:13.147065Z",
+    "last_check": "2026-09-24T19:06:41.231273Z",
+    "last_success": "2026-09-24T19:06:41.231273Z",
     "ok": true,
     "error": "",
-    "jobs_detected": 48,
+    "jobs_detected": 53,
     "source_url": "https://api.lever.co/v0/postings/hcvt?mode=json"
   }
 }
