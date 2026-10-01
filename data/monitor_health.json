@@ -1,5 +1,5 @@
 {
-  "last_cycle": "2026-10-01T02:06:43.939052Z",
+  "last_cycle": "2026-10-01T08:51:22.824844Z",
   "total_employers": 31,
   "actively_monitored": 2,
   "healthy": 2,
@@ -11,8 +11,8 @@
     {
       "company": "Point72",
       "ats": "Greenhouse",
-      "last_check": "2026-10-01T02:06:43.939052Z",
-      "last_success": "2026-10-01T02:06:43.939052Z",
+      "last_check": "2026-10-01T08:51:22.824844Z",
+      "last_success": "2026-10-01T08:51:22.824844Z",
       "ok": true,
       "error": "",
       "jobs_detected": 85,
@@ -21,8 +21,8 @@
     {
       "company": "HCVT",
       "ats": "Lever",
-      "last_check": "2026-10-01T02:06:43.939052Z",
-      "last_success": "2026-10-01T02:06:43.939052Z",
+      "last_check": "2026-10-01T08:51:22.824844Z",
+      "last_success": "2026-10-01T08:51:22.824844Z",
       "ok": true,
       "error": "",
       "jobs_detected": 60,
