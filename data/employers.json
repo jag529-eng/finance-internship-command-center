@@ -48,7 +48,7 @@
     "ats": "Lever",
     "ats_site": "hcvt",
     "monitoring_method": "Lever Postings API",
-    "monitoring_status": "Configured + Failing",
+    "monitoring_status": "Configured + Healthy",
     "check_interval_minutes": 180,
     "priority_tier": 2
   },
