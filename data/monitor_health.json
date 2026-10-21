@@ -1,9 +1,9 @@
 {
-  "last_cycle": "2026-10-21T17:07:16.542674Z",
+  "last_cycle": "2026-10-21T20:35:54.511111Z",
   "total_employers": 31,
   "actively_monitored": 2,
-  "healthy": 2,
-  "failing": 0,
+  "healthy": 1,
+  "failing": 1,
   "manual": 7,
   "not_configured": 22,
   "new_jobs_today": 0,
@@ -11,22 +11,20 @@
     {
       "company": "Point72",
       "ats": "Greenhouse",
-      "last_check": "2026-10-21T17:07:16.542674Z",
-      "last_success": "2026-10-21T17:07:16.542674Z",
+      "last_check": "2026-10-21T20:35:54.511111Z",
+      "last_success": "2026-10-21T20:35:54.511111Z",
       "ok": true,
       "error": "",
-      "jobs_detected": 92,
+      "jobs_detected": 91,
       "source_url": "https://boards-api.greenhouse.io/v1/boards/point72/jobs?content=true"
     },
     {
       "company": "HCVT",
       "ats": "Lever",
-      "last_check": "2026-10-21T17:07:16.542674Z",
+      "last_check": "2026-10-21T20:35:54.511111Z",
       "last_success": "2026-10-21T17:07:16.542674Z",
-      "ok": true,
-      "error": "",
-      "jobs_detected": 60,
-      "source_url": "https://api.lever.co/v0/postings/hcvt?mode=json"
+      "ok": false,
+      "error": "ReadTimeout: HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=20)"
     }
   ]
 }
