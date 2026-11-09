@@ -1,15 +1,15 @@
 {
   "point72": {
-    "last_check": "2026-11-09T02:38:11.229851Z",
-    "last_success": "2026-11-09T02:38:11.229851Z",
+    "last_check": "2026-11-09T11:23:41.931252Z",
+    "last_success": "2026-11-09T11:23:41.931252Z",
     "ok": true,
     "error": "",
-    "jobs_detected": 86,
+    "jobs_detected": 85,
     "source_url": "https://boards-api.greenhouse.io/v1/boards/point72/jobs?content=true"
   },
   "hcvt": {
-    "last_check": "2026-11-09T02:38:11.229851Z",
-    "last_success": "2026-11-09T02:38:11.229851Z",
+    "last_check": "2026-11-09T11:23:41.931252Z",
+    "last_success": "2026-11-09T11:23:41.931252Z",
     "ok": true,
     "error": "",
     "jobs_detected": 51,
