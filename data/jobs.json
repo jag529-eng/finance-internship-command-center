@@ -1,5 +1,38 @@
 [
   {
+    "id": "6040596fb26f8874ec4b2e19",
+    "company": "Point72",
+    "employer_id": "point72",
+    "ats": "Greenhouse",
+    "ats_id": "8948017002",
+    "title": "Software Engineer, Tax Technology",
+    "category": "Asset Management",
+    "description": "Software Engineer, Tax Technology A CAREER WITH POINT72’S TECHNOLOGY TEAM As Point72 reimagines the future of investing, our Technology group is constantly improving our company’s IT infrastructure, positioning us at the forefront of a rapidly evolving technology landscape. We’re a team of experts experimenting, discovering new ways to harness the power of open-source solutions, and embracing enterprise agile methodology. We encourage professional development to ensure you bring innovative ideas to our products while satisfying your own intellectual curiosity. What you’ll do You will work in the Tax Technology system team developing technical solutions supporting Point72’s tax systems and tax optimization data analytics. Specifically, you will: • Contribute to the overall architecture and technical direction of the tax technology stack. • Utilize best practices in software development, including technical documentation, code reviews, testing, and continuous integration • Design and build new software applications and software enhancements and projects supporting tax application technology. • Work closely with business stake holders to develop software solutions using test-driven and agile software development methodologies. • Design cloud-based computing solutions to create scalable cloud native applications. • Be responsible for system upgrades and features supporting resiliency and capacity improvements, automation and controls, and integration with internal and external vendors and services. • Work with DevOps teams to resolve operational issues and leverage CI/CD platforms while following DevOps practices within the team and projects • Continuously improve the platforms using the latest technologies and software development ideas. • Develop close working relationships and collaborate with other technology teams to deliver cross-departmental initiatives. What’s required • 3 to 10 years of professional software development experience with a focus on Java with Scala exposure. • Strong understanding of object-oriented programming, design patterns and frameworks. • Experience building applications with focus on user-friendly interface design, as well as back-end and database optimization. • Design and implementation experience in building systems with large data volumes and scalability. • SQL development, debugging experience with relational database. · Experience with building micro services, Kubernetes based platforms, and AWS. · Excellent verbal communication skills · Strong problem solving and analytical skills. · Experience in the financial services industry, particularly in a hedge fund or asset management environment. · Experience with Node.js and building RESTful APIs. · Experience with building applications using Python · Experience with React and Typescript technologies. · Knowledge of messaging technologies Kafka, ActiveMQ, or Solace. · Knowledge and/or experience with CI/CD, Jenkins and Artifactory. · Experience architecting on AWS or other cloud provider for scalability and resiliency · Knowledge of Datadog, Docker, Kubernetes, or OCP · Knowledge of other database technologies (Elasticsearch) · Commitment to the highest ethical standards About Point72 Point72 is a leading global alternative investment firm led by Steven A. Cohen. Building on more than 30 years of investing experience, Point72 seeks to deliver superior returns for its investors through fundamental and systematic investing strategies across asset classes and geographies. We aim to attract and retain the industry’s brightest talent by cultivating an investor-led culture and committing to our people’s long-term growth. For more information, visit www.Point72.com.",
+    "location": "India",
+    "work_arrangement": "Unknown",
+    "internship_year": null,
+    "eligible_graduation_years": [],
+    "date_posted": null,
+    "first_detected_at": "2026-11-20T11:27:45.192011Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
+    "deadline": null,
+    "apply_url": "https://boards.greenhouse.io/point72/jobs/8948017002?gh_jid=8948017002",
+    "source_url": "https://boards.greenhouse.io/point72/jobs/8948017002?gh_jid=8948017002",
+    "salary": null,
+    "gpa": {
+      "type": "none",
+      "minimum": null,
+      "evidence": "No GPA language detected in posting text"
+    },
+    "work_authorization": "Unknown",
+    "required_qualifications": "See original posting",
+    "preferred_qualifications": "See original posting",
+    "status": "Open",
+    "career_value_seed": 84,
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z",
+    "server_alert_priority": 67
+  },
+  {
     "id": "657978e7d6360a2f73c7d4a0",
     "company": "Point72",
     "employer_id": "point72",
@@ -14,7 +47,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-11-19T12:57:00.330095Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8932943002?gh_jid=8932943002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8932943002?gh_jid=8932943002",
@@ -29,7 +62,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 84,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "4bbcf66f6820636f00b2bc11",
@@ -46,7 +79,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-11-17T21:46:25.111730Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://jobs.lever.co/hcvt/dbb7b899-da21-4b34-b68b-a9829fd1dbd3/apply",
     "source_url": "https://jobs.lever.co/hcvt/dbb7b899-da21-4b34-b68b-a9829fd1dbd3",
@@ -61,7 +94,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "ecaee2f5a241f45e12d4cad5",
@@ -78,7 +111,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-11-17T13:15:51.153958Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8931689002?gh_jid=8931689002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8931689002?gh_jid=8931689002",
@@ -93,7 +126,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 84,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "40161375a6dcc886bf045c02",
@@ -110,7 +143,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-11-16T20:59:00.920666Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8783744002?gh_jid=8783744002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8783744002?gh_jid=8783744002",
@@ -125,7 +158,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "f4de0d565ddf82a20d4388fe",
@@ -175,7 +208,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-11-16T20:59:00.920666Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://jobs.lever.co/hcvt/bd39bb56-3f04-4fde-9132-0f5c1e9c197f/apply",
     "source_url": "https://jobs.lever.co/hcvt/bd39bb56-3f04-4fde-9132-0f5c1e9c197f",
@@ -190,7 +223,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "be5736b1a75f8b26898d266f",
@@ -207,7 +240,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-11-16T20:59:00.920666Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://jobs.lever.co/hcvt/e5d3d1cf-d513-4db0-be31-327689688686/apply",
     "source_url": "https://jobs.lever.co/hcvt/e5d3d1cf-d513-4db0-be31-327689688686",
@@ -222,7 +255,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "6b4f6a96824a845929f1e6fe",
@@ -243,7 +276,7 @@
     ],
     "date_posted": null,
     "first_detected_at": "2026-11-13T01:47:15.488602Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8929646002?gh_jid=8929646002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8929646002?gh_jid=8929646002",
@@ -258,7 +291,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "6a405e55540c04777c81dca8",
@@ -275,7 +308,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-11-11T16:06:55.236129Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8780028002?gh_jid=8780028002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8780028002?gh_jid=8780028002",
@@ -290,7 +323,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "06bdb8807f3e4c4504c132cf",
@@ -307,7 +340,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-11-10T04:07:54.960092Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8932491002?gh_jid=8932491002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8932491002?gh_jid=8932491002",
@@ -322,7 +355,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 84,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "12034023a166f35f2a1d4c9b",
@@ -339,7 +372,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-11-06T21:27:54.390199Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8899753002?gh_jid=8899753002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8899753002?gh_jid=8899753002",
@@ -354,7 +387,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 88,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "27b856210bc5f4f11b384075",
@@ -374,7 +407,7 @@
     ],
     "date_posted": null,
     "first_detected_at": "2026-11-06T21:27:54.390199Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8899750002?gh_jid=8899750002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8899750002?gh_jid=8899750002",
@@ -389,7 +422,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 84,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "bf8d5a18eeefaedea813bbbe",
@@ -442,7 +475,7 @@
     ],
     "date_posted": null,
     "first_detected_at": "2026-11-06T15:53:19.157921Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8878966002?gh_jid=8878966002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8878966002?gh_jid=8878966002",
@@ -457,7 +490,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "945ac83466e6ba55545d08d2",
@@ -511,7 +544,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-11-04T17:16:07.309697Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8621331002?gh_jid=8621331002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8621331002?gh_jid=8621331002",
@@ -526,7 +559,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "c5f06a683136a9284121b263",
@@ -543,7 +576,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-11-04T09:16:37.942388Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8929684002?gh_jid=8929684002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8929684002?gh_jid=8929684002",
@@ -558,7 +591,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "8c089c284eff0d4ede04d297",
@@ -575,7 +608,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-11-03T21:43:52.072732Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8921982002?gh_jid=8921982002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8921982002?gh_jid=8921982002",
@@ -590,7 +623,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 78,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "4030eb7864a72042f6c95ce1",
@@ -607,7 +640,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-10-30T20:44:01.324406Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://jobs.lever.co/hcvt/3fb5bf33-7db7-4271-934a-e29d08978aca/apply",
     "source_url": "https://jobs.lever.co/hcvt/3fb5bf33-7db7-4271-934a-e29d08978aca",
@@ -622,7 +655,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "eb211cc0e3802088f9f9ce05",
@@ -639,7 +672,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-10-30T08:33:57.056624Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8924790002?gh_jid=8924790002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8924790002?gh_jid=8924790002",
@@ -654,7 +687,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 84,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "fdac0aadcdcabfc9c624ca69",
@@ -671,7 +704,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-10-28T18:48:44.031213Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8872002002?gh_jid=8872002002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8872002002?gh_jid=8872002002",
@@ -686,7 +719,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "e510531dc206792fa0637c39",
@@ -738,7 +771,7 @@
     ],
     "date_posted": null,
     "first_detected_at": "2026-10-21T11:41:46.224851Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8905015002?gh_jid=8905015002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8905015002?gh_jid=8905015002",
@@ -753,7 +786,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 88,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "11ca9bc6c2fd07938b118373",
@@ -774,7 +807,7 @@
     ],
     "date_posted": null,
     "first_detected_at": "2026-10-19T19:18:04.355926Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8876354002?gh_jid=8876354002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8876354002?gh_jid=8876354002",
@@ -789,7 +822,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 84,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "7483f81b8ae631677af90376",
@@ -839,7 +872,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-10-16T09:44:32.915563Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8875666002?gh_jid=8875666002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8875666002?gh_jid=8875666002",
@@ -854,7 +887,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "dbe7555f9e727c034a6f5622",
@@ -871,7 +904,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-10-14T22:15:45.585933Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8888064002?gh_jid=8888064002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8888064002?gh_jid=8888064002",
@@ -886,7 +919,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 86,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "ff5878e52ace6ddc33164f20",
@@ -903,7 +936,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-10-14T22:15:45.585933Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://jobs.lever.co/hcvt/96e602bc-fb70-4566-bae4-3410242098c5/apply",
     "source_url": "https://jobs.lever.co/hcvt/96e602bc-fb70-4566-bae4-3410242098c5",
@@ -918,7 +951,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "888beacd8fbafc5175ab4330",
@@ -935,7 +968,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-10-14T22:15:45.585933Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://jobs.lever.co/hcvt/f6d3b909-e856-4c08-bfa6-f6716e637f42/apply",
     "source_url": "https://jobs.lever.co/hcvt/f6d3b909-e856-4c08-bfa6-f6716e637f42",
@@ -950,7 +983,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "4d89f758af93c695dc23ba22",
@@ -970,7 +1003,7 @@
     ],
     "date_posted": null,
     "first_detected_at": "2026-10-14T18:33:44.872120Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8885693002?gh_jid=8885693002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8885693002?gh_jid=8885693002",
@@ -985,7 +1018,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 84,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "995d57e80f59ca74823ff6a2",
@@ -1002,7 +1035,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-10-14T18:33:44.872120Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8885299002?gh_jid=8885299002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8885299002?gh_jid=8885299002",
@@ -1017,7 +1050,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 84,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "96e1900a59e8747a8db17eb3",
@@ -1037,7 +1070,7 @@
     ],
     "date_posted": null,
     "first_detected_at": "2026-10-14T18:33:44.872120Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8885715002?gh_jid=8885715002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8885715002?gh_jid=8885715002",
@@ -1052,7 +1085,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 84,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "f33c5c02e60e32fa36e3df1c",
@@ -1072,7 +1105,7 @@
     ],
     "date_posted": null,
     "first_detected_at": "2026-10-14T18:33:44.872120Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8885733002?gh_jid=8885733002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8885733002?gh_jid=8885733002",
@@ -1087,7 +1120,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 84,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "346452b4b213aa283cb23504",
@@ -1104,7 +1137,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-10-14T18:33:44.872120Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8402417002?gh_jid=8402417002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8402417002?gh_jid=8402417002",
@@ -1119,7 +1152,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 86,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "9e6c36d514542b0e03aad39d",
@@ -1136,7 +1169,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-10-13T22:40:37.410768Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8811167002?gh_jid=8811167002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8811167002?gh_jid=8811167002",
@@ -1151,7 +1184,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 84,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "e3b6e786f2b7a3fefa59e9ed",
@@ -1168,7 +1201,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-10-13T22:40:37.410768Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8885528002?gh_jid=8885528002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8885528002?gh_jid=8885528002",
@@ -1183,7 +1216,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 78,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "5d59fe53bbdfa1fb4742d3b1",
@@ -1268,7 +1301,7 @@
     ],
     "date_posted": null,
     "first_detected_at": "2026-10-12T20:15:45.219575Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8883820002?gh_jid=8883820002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8883820002?gh_jid=8883820002",
@@ -1283,7 +1316,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 84,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "a44e2e1b0061b7197e213573",
@@ -1368,7 +1401,7 @@
     ],
     "date_posted": null,
     "first_detected_at": "2026-10-08T13:22:22.981623Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8875667002?gh_jid=8875667002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8875667002?gh_jid=8875667002",
@@ -1383,7 +1416,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 78,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "30087d9aea2ffe4591091965",
@@ -1400,7 +1433,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-10-08T00:10:00.892054Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8845107002?gh_jid=8845107002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8845107002?gh_jid=8845107002",
@@ -1415,7 +1448,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 67,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "78d61db1c49e60c7b6a0f22f",
@@ -1432,7 +1465,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-10-08T00:10:00.892054Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8845109002?gh_jid=8845109002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8845109002?gh_jid=8845109002",
@@ -1447,7 +1480,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 67,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "395edda8ea57eb07467e4ba7",
@@ -1464,7 +1497,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-10-08T00:10:00.892054Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8877421002?gh_jid=8877421002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8877421002?gh_jid=8877421002",
@@ -1479,7 +1512,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "c6984f1a36ad88cd7df7197f",
@@ -1498,7 +1531,7 @@
     ],
     "date_posted": null,
     "first_detected_at": "2026-10-07T19:20:38.869601Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8874857002?gh_jid=8874857002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8874857002?gh_jid=8874857002",
@@ -1513,7 +1546,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "26c0a1a0037091e70db0498d",
@@ -1530,7 +1563,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-10-07T19:20:38.869601Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8842769002?gh_jid=8842769002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8842769002?gh_jid=8842769002",
@@ -1545,7 +1578,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "189d233eba2be70c97c01287",
@@ -1562,7 +1595,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-10-06T20:15:00.536560Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8870196002?gh_jid=8870196002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8870196002?gh_jid=8870196002",
@@ -1577,7 +1610,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "92025b1e030f1fb9ba0619a4",
@@ -1594,7 +1627,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-10-06T20:15:00.536560Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8870206002?gh_jid=8870206002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8870206002?gh_jid=8870206002",
@@ -1609,7 +1642,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "22c2f37d11ee5320517a1a21",
@@ -1626,7 +1659,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-10-01T21:47:41.575478Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8236734002?gh_jid=8236734002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8236734002?gh_jid=8236734002",
@@ -1641,7 +1674,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "92b93ff9a9f2d1efb93fc169",
@@ -1999,7 +2032,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-09-24T19:06:41.231273Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://jobs.lever.co/hcvt/33a31935-4b14-4699-821a-a2e618f24358/apply",
     "source_url": "https://jobs.lever.co/hcvt/33a31935-4b14-4699-821a-a2e618f24358",
@@ -2014,7 +2047,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "1b6e3684bfee944c0f50f9ba",
@@ -2031,7 +2064,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-09-24T19:06:41.231273Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://jobs.lever.co/hcvt/401e3e47-e7d6-492f-9727-cfaa8e17220b/apply",
     "source_url": "https://jobs.lever.co/hcvt/401e3e47-e7d6-492f-9727-cfaa8e17220b",
@@ -2046,7 +2079,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "e2f0d82b091410b5354af8d4",
@@ -2063,7 +2096,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-09-24T19:06:41.231273Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://jobs.lever.co/hcvt/5422a3d0-bef3-43e9-ab9d-2ad69bf23f32/apply",
     "source_url": "https://jobs.lever.co/hcvt/5422a3d0-bef3-43e9-ab9d-2ad69bf23f32",
@@ -2078,7 +2111,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "fed544a61023fe1a1b20249a",
@@ -2095,7 +2128,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-09-24T19:06:41.231273Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://jobs.lever.co/hcvt/6bea7dff-1913-427f-ab52-072733012e57/apply",
     "source_url": "https://jobs.lever.co/hcvt/6bea7dff-1913-427f-ab52-072733012e57",
@@ -2110,7 +2143,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "f7a1eb4e1becc4560c38e9fe",
@@ -2127,7 +2160,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-09-24T19:06:41.231273Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://jobs.lever.co/hcvt/de610e20-7b19-4631-bf7d-b957591aef4e/apply",
     "source_url": "https://jobs.lever.co/hcvt/de610e20-7b19-4631-bf7d-b957591aef4e",
@@ -2142,7 +2175,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "89afdd4805fccef420491ea4",
@@ -2324,7 +2357,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-09-23T20:19:05.577679Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8785996002?gh_jid=8785996002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8785996002?gh_jid=8785996002",
@@ -2339,7 +2372,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 86,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "c3d7b727f352b2dc3deb65cc",
@@ -2356,7 +2389,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-09-23T16:53:30.676963Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8782933002?gh_jid=8782933002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8782933002?gh_jid=8782933002",
@@ -2371,7 +2404,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 86,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "0252d17b575b3ee3966cea4a",
@@ -2520,7 +2553,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-09-14T18:35:49.818906Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8773518002?gh_jid=8773518002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8773518002?gh_jid=8773518002",
@@ -2535,7 +2568,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "52fb313b64e3bbde0c1a33ec",
@@ -2552,7 +2585,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-09-14T12:44:18.574399Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8780025002?gh_jid=8780025002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8780025002?gh_jid=8780025002",
@@ -2567,7 +2600,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 67,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "70f442aca26cc4fdde1c96eb",
@@ -2584,7 +2617,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-09-11T21:41:40.220326Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8773509002?gh_jid=8773509002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8773509002?gh_jid=8773509002",
@@ -2599,7 +2632,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "b61c19ec0cc189a590d40a0f",
@@ -2781,7 +2814,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-09-03T14:31:35.193383Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8773512002?gh_jid=8773512002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8773512002?gh_jid=8773512002",
@@ -2796,7 +2829,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "94882f0216df49bd81fe30a6",
@@ -2846,7 +2879,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-09-02T04:27:51.801387Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://jobs.lever.co/hcvt/30eeee59-f288-49c3-a0ca-e2b736561fc9/apply",
     "source_url": "https://jobs.lever.co/hcvt/30eeee59-f288-49c3-a0ca-e2b736561fc9",
@@ -2861,7 +2894,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "76c6ade93cda324ffb468ff6",
@@ -2944,7 +2977,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-09-01T21:44:46.455492Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8770359002?gh_jid=8770359002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8770359002?gh_jid=8770359002",
@@ -2959,7 +2992,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "498d3bcd58479b7c1b45615a",
@@ -2976,7 +3009,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-09-01T14:51:05.165030Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8760806002?gh_jid=8760806002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8760806002?gh_jid=8760806002",
@@ -2991,7 +3024,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "c885a09425ceb0558bf1ba15",
@@ -3077,7 +3110,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-08-31T13:42:11.047981Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8377020002?gh_jid=8377020002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8377020002?gh_jid=8377020002",
@@ -3092,7 +3125,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 67,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "2bf0559cf10b8e7e0e769225",
@@ -3109,7 +3142,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-08-28T22:15:38.106191Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8742312002?gh_jid=8742312002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8742312002?gh_jid=8742312002",
@@ -3124,7 +3157,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "3e29f52b31b71df00ec4bf7f",
@@ -3144,7 +3177,7 @@
     ],
     "date_posted": null,
     "first_detected_at": "2026-08-28T22:15:38.106191Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://jobs.lever.co/hcvt/7c51ac85-72ad-4f7e-9409-de0c990b5f4c/apply",
     "source_url": "https://jobs.lever.co/hcvt/7c51ac85-72ad-4f7e-9409-de0c990b5f4c",
@@ -3159,7 +3192,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "a1c74974d546dc3ec88b3a22",
@@ -3179,7 +3212,7 @@
     ],
     "date_posted": null,
     "first_detected_at": "2026-08-28T22:15:38.106191Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://jobs.lever.co/hcvt/e9e7bfc0-70a8-46dd-b5c1-b3507219f60c/apply",
     "source_url": "https://jobs.lever.co/hcvt/e9e7bfc0-70a8-46dd-b5c1-b3507219f60c",
@@ -3194,7 +3227,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "2d25d8f7a7b59a6e1d278261",
@@ -3214,7 +3247,7 @@
     ],
     "date_posted": null,
     "first_detected_at": "2026-08-28T22:15:38.106191Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://jobs.lever.co/hcvt/b4607802-8c32-4f44-aaf8-beef3b8bb655/apply",
     "source_url": "https://jobs.lever.co/hcvt/b4607802-8c32-4f44-aaf8-beef3b8bb655",
@@ -3229,7 +3262,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "cd8779294693e98b7b38aeae",
@@ -3249,7 +3282,7 @@
     ],
     "date_posted": null,
     "first_detected_at": "2026-08-28T22:15:38.106191Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://jobs.lever.co/hcvt/b88ecec3-c4c4-4f1f-b5e1-fe24f72be973/apply",
     "source_url": "https://jobs.lever.co/hcvt/b88ecec3-c4c4-4f1f-b5e1-fe24f72be973",
@@ -3264,7 +3297,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "2e8202830814aeb0050cbad1",
@@ -3281,7 +3314,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-08-28T11:19:20.249676Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8750591002?gh_jid=8750591002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8750591002?gh_jid=8750591002",
@@ -3296,7 +3329,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "31a511d8c836a0cbde34dc11",
@@ -3379,7 +3412,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-08-25T20:43:40.484696Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8729688002?gh_jid=8729688002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8729688002?gh_jid=8729688002",
@@ -3394,7 +3427,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 86,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "921245499fc297f20193db5e",
@@ -3411,7 +3444,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-08-25T18:55:13.497757Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8745810002?gh_jid=8745810002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8745810002?gh_jid=8745810002",
@@ -3426,7 +3459,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "8d1fcfd1e8cd439b41bfaa3a",
@@ -3518,7 +3551,7 @@
     ],
     "date_posted": null,
     "first_detected_at": "2026-08-24T03:14:48.618292Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8729717002?gh_jid=8729717002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8729717002?gh_jid=8729717002",
@@ -3533,7 +3566,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 84,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "13882a6f428ce2acf30d1ae2",
@@ -3757,7 +3790,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-08-14T20:43:28.139601Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://jobs.lever.co/hcvt/cddbd11d-8cc2-4855-8fae-17a38fd2f69d/apply",
     "source_url": "https://jobs.lever.co/hcvt/cddbd11d-8cc2-4855-8fae-17a38fd2f69d",
@@ -3772,7 +3805,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 67,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "f109c04e8b093535e7811427",
@@ -3995,7 +4028,7 @@
     ],
     "date_posted": null,
     "first_detected_at": "2026-08-12T01:44:35.274052Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8491138002?gh_jid=8491138002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8491138002?gh_jid=8491138002",
@@ -4010,7 +4043,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 84,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "01182046dc1a8934108a1459",
@@ -4063,7 +4096,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-08-12T01:44:35.274052Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8250290002?gh_jid=8250290002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8250290002?gh_jid=8250290002",
@@ -4078,7 +4111,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 72,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "6b1b5999f24a10e2672e02af",
@@ -4095,7 +4128,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-08-12T01:44:35.274052Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8634189002?gh_jid=8634189002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8634189002?gh_jid=8634189002",
@@ -4110,7 +4143,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 84,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "a4f8fead9c241114945e956b",
@@ -4193,7 +4226,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-08-12T01:44:35.274052Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8660807002?gh_jid=8660807002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8660807002?gh_jid=8660807002",
@@ -4208,7 +4241,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "10a03a8ece8dc83b29274d2f",
@@ -4522,7 +4555,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-08-12T01:44:35.274052Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/7001158002?gh_jid=7001158002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/7001158002?gh_jid=7001158002",
@@ -4537,7 +4570,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 88,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "c5d88e9e6444c3b42362b170",
@@ -4554,7 +4587,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-08-12T01:44:35.274052Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/7045938002?gh_jid=7045938002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/7045938002?gh_jid=7045938002",
@@ -4569,7 +4602,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 88,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "af1da47c637bccc9bcf71bd1",
@@ -4652,7 +4685,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-08-12T01:44:35.274052Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/7045995002?gh_jid=7045995002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/7045995002?gh_jid=7045995002",
@@ -4667,7 +4700,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 88,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "2c2e29a34fa504059ede9147",
@@ -4684,7 +4717,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-08-12T01:44:35.274052Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/7045979002?gh_jid=7045979002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/7045979002?gh_jid=7045979002",
@@ -4699,7 +4732,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 88,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "0eb38f503eb471a37e745cc4",
@@ -4716,7 +4749,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-08-12T01:44:35.274052Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/7695570002?gh_jid=7695570002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/7695570002?gh_jid=7695570002",
@@ -4731,7 +4764,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 84,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "d97295022d613ef898edf160",
@@ -4814,7 +4847,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-08-12T01:44:35.274052Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8488485002?gh_jid=8488485002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8488485002?gh_jid=8488485002",
@@ -4829,7 +4862,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 84,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "a2b1c895a8599986739c8aac",
@@ -4846,7 +4879,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-08-12T01:44:35.274052Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8599905002?gh_jid=8599905002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8599905002?gh_jid=8599905002",
@@ -4861,7 +4894,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "2afc32a54f256ef2e1179924",
@@ -4911,7 +4944,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-08-12T01:44:35.274052Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8135956002?gh_jid=8135956002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8135956002?gh_jid=8135956002",
@@ -4926,7 +4959,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 84,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "547d084e9dc9144eaa1138df",
@@ -5009,7 +5042,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-08-12T01:44:35.274052Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8399360002?gh_jid=8399360002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8399360002?gh_jid=8399360002",
@@ -5024,7 +5057,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "560c42d94208c37137f9d14f",
@@ -5206,7 +5239,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-08-12T01:44:35.274052Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/6732930002?gh_jid=6732930002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/6732930002?gh_jid=6732930002",
@@ -5221,7 +5254,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 78,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "40d35521ae1ea0dedbf6df01",
@@ -5238,7 +5271,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-08-12T01:44:35.274052Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8236937002?gh_jid=8236937002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8236937002?gh_jid=8236937002",
@@ -5253,7 +5286,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "ec29bbff451da593dcc77a40",
@@ -5270,7 +5303,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-08-12T01:44:35.274052Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8244769002?gh_jid=8244769002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8244769002?gh_jid=8244769002",
@@ -5285,7 +5318,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "2860e24e9bde3e07ddebd857",
@@ -5302,7 +5335,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-08-12T01:44:35.274052Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8574616002?gh_jid=8574616002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8574616002?gh_jid=8574616002",
@@ -5317,7 +5350,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "970c45d9150e2f0c82f4e8f7",
@@ -5400,7 +5433,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-08-12T01:44:35.274052Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002",
@@ -5415,7 +5448,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 78,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "4a84c99ae7495b5122b95ca1",
@@ -5465,7 +5498,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-08-12T01:44:35.274052Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8606337002?gh_jid=8606337002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8606337002?gh_jid=8606337002",
@@ -5480,7 +5513,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "679274c2cb4959a08641c289",
@@ -5497,7 +5530,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-08-12T01:44:35.274052Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/7798698002?gh_jid=7798698002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/7798698002?gh_jid=7798698002",
@@ -5512,7 +5545,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "3fb385fb870ff465ab9626b8",
@@ -5529,7 +5562,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-08-12T01:44:35.274052Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/6656054002?gh_jid=6656054002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/6656054002?gh_jid=6656054002",
@@ -5544,7 +5577,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 84,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "59070316563c10f00a08c127",
@@ -6038,7 +6071,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-08-12T01:44:35.274052Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8530258002?gh_jid=8530258002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8530258002?gh_jid=8530258002",
@@ -6053,7 +6086,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 86,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "14d8577ebdb0626a8a653773",
@@ -6138,7 +6171,7 @@
     ],
     "date_posted": null,
     "first_detected_at": "2026-08-12T01:44:35.274052Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002",
@@ -6153,7 +6186,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "4f2b2468f3c45ca4c40faaf2",
@@ -6208,7 +6241,7 @@
     ],
     "date_posted": null,
     "first_detected_at": "2026-08-12T01:44:35.274052Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/7586061002?gh_jid=7586061002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/7586061002?gh_jid=7586061002",
@@ -6223,7 +6256,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "54f482c5e4a13a92dae18bdb",
@@ -6240,7 +6273,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-08-12T01:44:35.274052Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002",
@@ -6255,7 +6288,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "b0c13034ff8fa5f458a98c74",
@@ -6272,7 +6305,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-08-12T01:44:35.274052Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8023550002?gh_jid=8023550002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8023550002?gh_jid=8023550002",
@@ -6287,7 +6320,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 78,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "b7599220b4c2508030528760",
@@ -6304,7 +6337,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-08-12T01:44:35.274052Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/7297667002?gh_jid=7297667002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/7297667002?gh_jid=7297667002",
@@ -6319,7 +6352,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "27ff3290fcb8159150f51687",
@@ -6336,7 +6369,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-08-12T01:44:35.274052Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8018862002?gh_jid=8018862002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8018862002?gh_jid=8018862002",
@@ -6351,7 +6384,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "32a4561ccc04df60e40c04d9",
@@ -6401,7 +6434,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-08-12T01:44:35.274052Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8032153002?gh_jid=8032153002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8032153002?gh_jid=8032153002",
@@ -6416,7 +6449,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "44dec494121c2c2e08955cc8",
@@ -6433,7 +6466,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-08-12T01:44:35.274052Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8004302002?gh_jid=8004302002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8004302002?gh_jid=8004302002",
@@ -6448,7 +6481,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "22ed0f3ad48b59f95a1d4505",
@@ -6498,7 +6531,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-08-12T01:44:35.274052Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8531773002?gh_jid=8531773002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8531773002?gh_jid=8531773002",
@@ -6513,7 +6546,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 78,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "418219b4a865f88397b773bb",
@@ -6530,7 +6563,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-08-12T01:44:35.274052Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/7820104002?gh_jid=7820104002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/7820104002?gh_jid=7820104002",
@@ -6545,7 +6578,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 84,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "c433d489ee84397c3029162a",
@@ -6562,7 +6595,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-08-12T01:44:35.274052Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8056172002?gh_jid=8056172002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8056172002?gh_jid=8056172002",
@@ -6577,7 +6610,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 84,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "8bc948e401639eee89488da9",
@@ -6594,7 +6627,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-08-12T01:44:35.274052Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8675312002?gh_jid=8675312002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8675312002?gh_jid=8675312002",
@@ -6609,7 +6642,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "f0db31220e25e79bf8cb3546",
@@ -6824,7 +6857,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-08-12T01:44:35.274052Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://boards.greenhouse.io/point72/jobs/8470606002?gh_jid=8470606002",
     "source_url": "https://boards.greenhouse.io/point72/jobs/8470606002?gh_jid=8470606002",
@@ -6839,7 +6872,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 67,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "b47c224590c1c5650a9c8495",
@@ -7096,7 +7129,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-08-12T01:44:35.274052Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://jobs.lever.co/hcvt/9a94c896-5b5b-455d-b8f7-da68281c23a5/apply",
     "source_url": "https://jobs.lever.co/hcvt/9a94c896-5b5b-455d-b8f7-da68281c23a5",
@@ -7111,7 +7144,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 67,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "e3886d22a40f13ce8cbdc9f1",
@@ -7166,7 +7199,7 @@
     ],
     "date_posted": null,
     "first_detected_at": "2026-08-12T01:44:35.274052Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://jobs.lever.co/hcvt/98d68656-0dfb-4fa6-9a95-8d668022c588/apply",
     "source_url": "https://jobs.lever.co/hcvt/98d68656-0dfb-4fa6-9a95-8d668022c588",
@@ -7181,7 +7214,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 96,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "c6c2d389f897357500170652",
@@ -7297,7 +7330,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-08-12T01:44:35.274052Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://jobs.lever.co/hcvt/6010f901-a663-4619-a70b-358137dbe382/apply",
     "source_url": "https://jobs.lever.co/hcvt/6010f901-a663-4619-a70b-358137dbe382",
@@ -7312,7 +7345,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "09343a4308f5f05ba8435ab4",
@@ -7329,7 +7362,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-08-12T01:44:35.274052Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://jobs.lever.co/hcvt/8027d28c-107b-4803-8eaa-47da6ee56158/apply",
     "source_url": "https://jobs.lever.co/hcvt/8027d28c-107b-4803-8eaa-47da6ee56158",
@@ -7344,7 +7377,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "eb80eacb99a25562b35e77de",
@@ -7361,7 +7394,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-08-12T01:44:35.274052Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://jobs.lever.co/hcvt/8c9c7fff-5aca-4c2f-8f20-0240a98c77af/apply",
     "source_url": "https://jobs.lever.co/hcvt/8c9c7fff-5aca-4c2f-8f20-0240a98c77af",
@@ -7376,7 +7409,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "9c6181af749febb01862f8a5",
@@ -7393,7 +7426,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-08-12T01:44:35.274052Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://jobs.lever.co/hcvt/9560de00-1181-427a-971a-382faf9a5ff7/apply",
     "source_url": "https://jobs.lever.co/hcvt/9560de00-1181-427a-971a-382faf9a5ff7",
@@ -7408,7 +7441,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "75c2c7ca4deb453ada2a4df9",
@@ -7425,7 +7458,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-08-12T01:44:35.274052Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://jobs.lever.co/hcvt/b9b246a6-bb2e-4e76-b6b7-e48dc60860f1/apply",
     "source_url": "https://jobs.lever.co/hcvt/b9b246a6-bb2e-4e76-b6b7-e48dc60860f1",
@@ -7440,7 +7473,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "1ed3999562f3381c00705978",
@@ -7496,7 +7529,7 @@
     ],
     "date_posted": null,
     "first_detected_at": "2026-08-12T01:44:35.274052Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://jobs.lever.co/hcvt/2b3dec49-1e99-4b25-9464-96bc20cf51b1/apply",
     "source_url": "https://jobs.lever.co/hcvt/2b3dec49-1e99-4b25-9464-96bc20cf51b1",
@@ -7511,7 +7544,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "c699eda295242a0139a9c739",
@@ -7567,7 +7600,7 @@
     ],
     "date_posted": null,
     "first_detected_at": "2026-08-12T01:44:35.274052Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://jobs.lever.co/hcvt/3f638f46-0380-4a53-9328-882830646ba8/apply",
     "source_url": "https://jobs.lever.co/hcvt/3f638f46-0380-4a53-9328-882830646ba8",
@@ -7582,7 +7615,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "bd710866ca346dbb8a7b9df0",
@@ -7839,7 +7872,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-08-12T01:44:35.274052Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://jobs.lever.co/hcvt/91533866-771f-4413-865e-9081b71c77e7/apply",
     "source_url": "https://jobs.lever.co/hcvt/91533866-771f-4413-865e-9081b71c77e7",
@@ -7854,7 +7887,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 90,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "8122d6d43b05eb64c8ae8f86",
@@ -7904,7 +7937,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-08-12T01:44:35.274052Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://jobs.lever.co/hcvt/882f0e74-c1e4-4745-9122-40b17171c82d/apply",
     "source_url": "https://jobs.lever.co/hcvt/882f0e74-c1e4-4745-9122-40b17171c82d",
@@ -7919,7 +7952,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "2b025b44aa39f81715e42733",
@@ -8002,7 +8035,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-08-12T01:44:35.274052Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://jobs.lever.co/hcvt/0bc43810-3df3-44e1-9563-e0f714d6741f/apply",
     "source_url": "https://jobs.lever.co/hcvt/0bc43810-3df3-44e1-9563-e0f714d6741f",
@@ -8017,7 +8050,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "bdf1b402e14de680e4032e28",
@@ -8034,7 +8067,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-08-12T01:44:35.274052Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://jobs.lever.co/hcvt/0e6dd156-00db-4bdd-b1e5-3a19fbcb4033/apply",
     "source_url": "https://jobs.lever.co/hcvt/0e6dd156-00db-4bdd-b1e5-3a19fbcb4033",
@@ -8049,7 +8082,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "a3d9c0a059bab816baf71112",
@@ -8066,7 +8099,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-08-12T01:44:35.274052Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://jobs.lever.co/hcvt/7719a8dc-b5c2-4707-8fe9-499beade301d/apply",
     "source_url": "https://jobs.lever.co/hcvt/7719a8dc-b5c2-4707-8fe9-499beade301d",
@@ -8081,7 +8114,7 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   },
   {
     "id": "839e457792cc69e832a273d5",
@@ -8098,7 +8131,7 @@
     "eligible_graduation_years": [],
     "date_posted": null,
     "first_detected_at": "2026-08-12T01:44:35.274052Z",
-    "last_seen_at": "2026-11-20T03:07:02.804839Z",
+    "last_seen_at": "2026-11-20T11:27:45.192011Z",
     "deadline": null,
     "apply_url": "https://jobs.lever.co/hcvt/e0f5b189-5852-4553-81fe-817c17b3d6d5/apply",
     "source_url": "https://jobs.lever.co/hcvt/e0f5b189-5852-4553-81fe-817c17b3d6d5",
@@ -8113,6 +8146,6 @@
     "preferred_qualifications": "See original posting",
     "status": "Open",
     "career_value_seed": 65,
-    "monitoring_verified_at": "2026-11-20T03:07:02.804839Z"
+    "monitoring_verified_at": "2026-11-20T11:27:45.192011Z"
   }
 ]
